@@ -1,7 +1,8 @@
 # Emerson Rodrigues
 
-💻 **`Desenvolvedor Fullstack`** - Apaixonado por tecnologia e soluções práticas.  
-🚀 Atualmente focado em Python Full Stack
+💻 **`Desenvolvedor Fullstack`** - Apaixonado por tecnologia e soluções práticas. 
+
+🚀 Atualmente mergulhado no universo Python Full Stack, estou construindo soluções que acompanham o ritmo acelerado da transformação digital. Com a inteligência artificial cada vez mais presente no nosso dia a dia, meu objetivo é contribuir de forma estratégica para empresas que querem inovar e impactar a sociedade de maneira efetiva.
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 <!-- [![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](#) -->
@@ -24,8 +25,12 @@
  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" /> 
 </div>              
  -->
-## 🛠️ Projetos em Desenvolvimento
 
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=developeraplicativos&show_icons=true )-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developeraplicativos" />
+
+
+## 🛠️ Projetos em Desenvolvimento 
 https://github.com/developeraplicativos/Python-agenda
  
 ## 📫 Como me encontrar
